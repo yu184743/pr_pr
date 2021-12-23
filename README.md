@@ -1,3 +1,5 @@
 # pr_pr
-Pull request practiceに
+Pull request practice
+
+Practice Mode 1
 nu
