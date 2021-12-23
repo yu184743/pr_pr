@@ -1,2 +1,3 @@
 # pr_pr
-Pull request practice
+Pull request practiceに
+nu
