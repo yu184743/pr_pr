@@ -1,3 +1,9 @@
 # pr_pr
-Pull request practiceに
+Pull request practice
+
+haruhi
+
+
+Practice Mode 1
+
 nu
